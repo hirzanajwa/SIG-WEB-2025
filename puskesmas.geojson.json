@@ -1,105 +1,263 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Gedongtengen" },
-            "geometry": { "type": "Point", "coordinates": [110.3637, -7.7936] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Danurejan" },
-            "geometry": { "type": "Point", "coordinates": [110.3724, -7.7932] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Gondokusuman" },
-            "geometry": { "type": "Point", "coordinates": [110.3791, -7.7824] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Kotagede" },
-            "geometry": { "type": "Point", "coordinates": [110.3965, -7.8203] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Mantrijeron" },
-            "geometry": { "type": "Point", "coordinates": [110.3551, -7.8143] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Ngampilan" },
-            "geometry": { "type": "Point", "coordinates": [110.3554, -7.8002] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Wirobrajan" },
-            "geometry": { "type": "Point", "coordinates": [110.3535, -7.8009] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Jetis" },
-            "geometry": { "type": "Point", "coordinates": [110.3704, -7.7773] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Kraton" },
-            "geometry": { "type": "Point", "coordinates": [110.3601, -7.8147] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Mergangsan" },
-            "geometry": { "type": "Point", "coordinates": [110.3797, -7.8154] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Tegalrejo" },
-            "geometry": { "type": "Point", "coordinates": [110.3572, -7.7779] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Umbulharjo" },
-            "geometry": { "type": "Point", "coordinates": [110.3885, -7.8141] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Pakualaman" },
-            "geometry": { "type": "Point", "coordinates": [110.3767, -7.8003] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Caturtunggal" },
-            "geometry": { "type": "Point", "coordinates": [110.4071, -7.7709] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Depok" },
-            "geometry": { "type": "Point", "coordinates": [110.4098, -7.7642] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Gamping" },
-            "geometry": { "type": "Point", "coordinates": [110.3193, -7.7921] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Mlati" },
-            "geometry": { "type": "Point", "coordinates": [110.3516, -7.7615] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Ngaglik" },
-            "geometry": { "type": "Point", "coordinates": [110.3946, -7.7212] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Seyegan" },
-            "geometry": { "type": "Point", "coordinates": [110.2978, -7.7114] }
-        },
-        {
-            "type": "Feature",
-            "properties": { "nama": "Puskesmas Tempel" },
-            "geometry": { "type": "Point", "coordinates": [110.3024, -7.6713] }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Panembahan Senopati"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3381944484833,
+          -7.89236533183049
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Nur Hidayah"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3879692183205,
+          -7.886179003993163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Umum Rachma Husada"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34573389452902,
+          -7.932127654707543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "rumah Sakit Santa elisabeth"
+      },
+      "geometry": {
+        "coordinates": [
+          110.31866867635637,
+          -7.925628882744633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pembantu Kasihan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32661761111007,
+          -7.82533374269272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit PKU Muhammadiyah Gamping"
+      },
+      "geometry": {
+        "coordinates": [
+          110.31749109654697,
+          -7.800529683013721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Umum Queen Latifa"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33705089227175,
+          -7.762592308296831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Sub Puskesmas Mlati 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32856059057775,
+          -7.7486877517518025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit At-Turots Al-Islamy"
+      },
+      "geometry": {
+        "coordinates": [
+          110.29390552705888,
+          -7.750446130945832
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Happy Land"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39207515613413,
+          -7.793990737087384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Utama Khadijah"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37610988117063,
+          -7.797866563979383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Bethesda Lempuyangwangi"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37305858551707,
+          -7.796442382288674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah sakit Panti Rapih"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37750548040083,
+          -7.777002336411698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUP Dr. Sardjito"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37285584655405,
+          -7.768189197651964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit JIH"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40350438263738,
+          -7.7577562810838145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Akademik UGM"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35041180219793,
+          -7.743164721679122
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Rumah Sakit Ahmad Dahlan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.42486190796109,
+          -7.7471274960070104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Puri Husada"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38643039393861,
+          -7.705785210988395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSU Gramedika"
+      },
+      "geometry": {
+        "coordinates": [
+          110.41698025122201,
+          -7.701405091979652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "nama": "Puskesmas Banguntapan 1" },
+      "geometry": {
+        "coordinates": [
+          110.41395739269007,
+          -7.829113235441
+        ],
+        "type": "Point"
+      }
+    }
+  ]
 }
